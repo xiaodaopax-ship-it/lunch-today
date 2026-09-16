@@ -1,0 +1,9 @@
+# 这个仓库只放静态网页，别把源码和数据推进来
+*.db
+*.key
+*.pyc
+__pycache__/
+data/
+_scripts/
+桌面助手/
+settings.json
